@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Among Us Hide and Seek Version**
 
+- 📫 How to reach me **emanabdelhady@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
