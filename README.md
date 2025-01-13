@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Among Us Hide and Seek Version**
 
-- 📫 How to reach me **emanabdelhady@gmail.com**
+- 📫 How to reach me **emanabdelhady26@gmail.com**
 
 <p align="left">
 </p>
