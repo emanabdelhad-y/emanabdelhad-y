@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eman Abd Elhady</h1>
-<h3 align="center">A passionate software engineer and game developer :) </h3>
+<h3 align="center">A passionate game developer :D </h3>
 
-- 🔭 I’m currently working on **Cat's Life**
+- 🎮 I’m a CS junior at AUC with 2 minors in Maths and Game Design
 
-- 👯 I’m looking to collaborate on **Among Us Hide and Seek Version**
+- 🔭 Currently working on **Cat's Life**
+
+- 😁 I just love making fun games
 
 - 📫 How to reach me **emanabdelhady26@gmail.com**
 
