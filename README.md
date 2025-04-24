@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eman Abd Elhady</h1>
 <h3 align="center">A passionate game developer :D </h3>
 
-- 🎮 I’m a CS junior at AUC with 2 minors in Maths and Game Design
+- 🎮 I’m a CS junior at AUC minoring in Maths and Game Design
 
 - 🔭 Currently working on **Cat's Life**
 
